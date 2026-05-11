@@ -1,4 +1,3 @@
-
 import streamlit as st
 
 st.title("AISSATOU SARR")
@@ -6,7 +5,7 @@ st.header("TECHNICIENNE SUPERIEURE EN AGRONOMIE ET AGROALIMENTAIRE ")
 st.write("_________________________________")
 st.subheader("A PROPOS DE MOI")
 with st.sidebar:
-     st.image("profil.jpeg",width=180)
+     st.image("PROFIL PORFOLIO.jpeg",width=180)
      st.write("MAIL=sarr.aissatou1@uam.edu.sn")
      st.write("ADDRESS=GUEDIAWAYE,WAKHINANE NIMZATT")
      st.write("_____________________________")
@@ -35,7 +34,7 @@ st.markdown("""
 
        •	Observation et suivi des cultures et des sols.
 
-       •	 """)
+       	 """)
        
 st.subheader("Activités de terrain  Club Environnement (Eco Human Club) ")
 st.markdown("""Organisation et participation à des activités de sensibilisation environnementale.
@@ -57,4 +56,4 @@ streamlit(Développement d'interfaces interactives et visualisation de données.
 
 QGIS(Analyse spatiale, création de cartes thématiques.)
 
-)""")
+""")
